@@ -25,8 +25,8 @@ Computer Hardware
 	<area shape="circle" coords="490,400,570,450" href="https://en.wikipedia.org/wiki/Computer_mouse" target="blank">
 <center><h1>Input and Output devices</h1><center><br>
 <l><a href = "input.html" target="_blank">Input Devices</a></l> <l>......................</l> <l><a href = "output.html" target="_blank">Output Devices</a></l>
-<img src = "image.png">
-	<video controls width = "500" height = "250" loop><source src="video.mp4" type="video/mp4"></video>
-	<video controls width = "500" height = "250" loop><source src="video2.mp4" type="video/mp4"></video>
+<img src = "photo.jpeg">
+<video controls width = "500" height = "250" loop><source src="video.mp4" type="video/mp4"></video>
+<video controls width = "500" height = "250" loop><source src="video2.mp4" type="video/mp4"></video>
 </body>
 </html>
