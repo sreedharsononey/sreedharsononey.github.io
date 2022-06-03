@@ -1,9 +1,9 @@
 <html>
 <head>
+<meta name="google-site-verification" content="tFfBRTWELeqB-wP3W-aT1yK8UgvkhqD7kwK-tGvrZHM" />
 <title>
 Computer Hardware
 </title>
-<meta name="google-site-verification" content="tFfBRTWELeqB-wP3W-aT1yK8UgvkhqD7kwK-tGvrZHM" />
 </head>
 <body>
 <img src = "photo.jpeg" alt ="error">
